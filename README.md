@@ -1,3 +1,3 @@
 # advent_of_code_2025
 
-Answers of the [Advent of code 2025](https://adventofcode.com/2025) in Python
+Answers of the <a href="https://adventofcode.com/2025" target="_blank">Advent of Code 2025</a> in Python
