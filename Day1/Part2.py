@@ -20,4 +20,6 @@ for line in read():
     if n < 0:
         count += (dial == 0) - at_zero
 
+    # could also use divmod() here
+
 print(f"Final password: {count}")
