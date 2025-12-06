@@ -17,4 +17,4 @@ for line in read():
     if dial == 0:
         count += 1
 
-print(f"Final password: {count}")
+print(f"Final answer: {count} ({count:,})")
