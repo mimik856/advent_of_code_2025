@@ -19,7 +19,6 @@ for line in read():
     count += abs(rotations)
     if n < 0:
         count += (dial == 0) - at_zero # uses binary (true or false which represent 1 and 0)
-
     # could also use divmod() here
 
 print(f"Final answer: {count} ({count:,})")
