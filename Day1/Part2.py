@@ -18,7 +18,7 @@ for line in read():
     dial = total % 100
     count += abs(rotations)
     if n < 0:
-        count += (dial == 0) - at_zero
+        count += (dial == 0) - at_zero # uses binary (true or false which represent 1 and 0)
 
     # could also use divmod() here
 
